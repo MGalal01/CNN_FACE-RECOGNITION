@@ -1,5 +1,4 @@
 # CNN_FACE-RECOGNITION 
-# prompt: write a readme notes for this code explaining the steps involved 
 
 # Facial Expression Recognition using EfficientNetB2
 
